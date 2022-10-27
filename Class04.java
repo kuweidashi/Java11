@@ -32,7 +32,7 @@ class Compute extends Math
       ans = a/b;
    }
 }
-public class Class03
+public class Class04
 {
    public static void main(String args[])
    {
