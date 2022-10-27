@@ -1,4 +1,4 @@
-package Java10;
+package Java11;
 interface Math
 {
    public void show();
