@@ -1,4 +1,4 @@
-package Java10;
+package Java11;
 abstract class Math
 {
    protected int ans;
