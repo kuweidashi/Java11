@@ -2,7 +2,7 @@ package Java11;
 
 interface iVolume
 {
-   public void showData();                      //遇到抽象類別時繼續向下到非抽象函數時繼承
+   public void showData();                      //遇到抽象類別時繼續向下到非抽象類別時繼承
    public double vol();
 }
 abstract class CShape implements iVolume
